@@ -13,7 +13,6 @@ This repo supports GitHub Codespaces.
   - [Recurrent Neural Networks](#recurrent-neural-networks)
   - [TensorFlow Lite for Microcontrollers](#tensorflow-lite-for-microcontrollers)
 - [Computer Vision](#computer-vision)
-  - [OpenCV](#opencv)
 
 ## Decision Making
 
@@ -49,8 +48,8 @@ This repo supports GitHub Codespaces.
 
 | **Name** | **Description** |
 |----------|-----------------|
-| [OpenCV Hands-On](./Computer%20Vision/OpenCV/OpenCVHandsOn/01_opencv_hands_on.ipynb) | Hands-on with OpenCV library (Basic operations on images) |
-| [Camera Calibration](./Computer%20Vision/OpenCV/CameraCalibration/01_camera_calibration.ipynb) | Camera calibration using OpenCV |
-| [Image Stitching](./Computer%20Vision/OpenCV/ImageStitching/01_image_stitching.ipynb) | Stitch multiple images together to create a panorama |
+| [OpenCV Hands-On](./Computer%20Vision/OpenCVHandsOn/01_opencv_hands_on.ipynb) | Hands-on with OpenCV library (Basic operations on images) |
+| [Camera Calibration](./Computer%20Vision/CameraCalibration/01_camera_calibration.ipynb) | Camera calibration using OpenCV |
+| [Image Stitching](./Computer%20Vision/ImageStitching/01_image_stitching.ipynb) | Stitch multiple images together to create a panorama |
 
 
