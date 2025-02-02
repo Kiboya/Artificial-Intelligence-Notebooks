@@ -51,5 +51,6 @@ This repo supports GitHub Codespaces.
 | [OpenCV Hands-On](./Computer%20Vision/OpenCVHandsOn/01_opencv_hands_on.ipynb) | Hands-on with OpenCV library (Basic operations on images) |
 | [Camera Calibration](./Computer%20Vision/CameraCalibration/01_camera_calibration.ipynb) | Camera calibration using OpenCV |
 | [Image Stitching](./Computer%20Vision/ImageStitching/01_image_stitching.ipynb) | Stitch multiple images together to create a panorama |
+| [Car Detection](./Computer%20Vision/CarDetection/01_car_detection.ipynb) | Detect cars in traffic videos using OpenCV |
 
 
