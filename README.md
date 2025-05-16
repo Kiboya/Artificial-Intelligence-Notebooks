@@ -43,6 +43,7 @@ This repo supports GitHub Codespaces.
 | **Name** | **Description** |
 |----------|-----------------|
 | [Deep Learning Basics](./Machine%20Learning/Deep%20Learning/Deep%20Learning%20Basics.md) | Introduction to the fundamental concepts of deep learning. |
+| [Convolutional Neural Networks](./Machine%20Learning/Deep%20Learning/02_cnn.ipynb) | Hands-on with Convolutional Neural Networks (CNNs) using PyTorch. Transfer learning and fine-tuning is also covered. |
 
 ### TensorFlow Lite for Microcontrollers
 
