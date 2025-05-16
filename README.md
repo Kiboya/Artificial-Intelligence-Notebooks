@@ -7,20 +7,34 @@ This repo supports GitHub Codespaces.
 ## Table of Contents
 
 - [Decision Making](#decision-making)
-  - [Pathfinding Techniques](#pathfinding-techniques)
+  - [Deterministic Environments](#deterministic-environments)
+  - [Stochastic Environments](#stochastic-environments)
+  - [Adversarial Search](#adversarial-search)
 - [Machine Learning](#machine-learning)
   - [Deep Learning](#deep-learning)
-  - [Recurrent Neural Networks](#recurrent-neural-networks)
   - [TensorFlow Lite for Microcontrollers](#tensorflow-lite-for-microcontrollers)
+  - [Recurrent Neural Networks](#recurrent-neural-networks)
 - [Computer Vision](#computer-vision)
 
 ## Decision Making
 
-### Pathfinding Techniques
+### Deterministic Environments
 
 | **Name** | **Description** |
 |----------|-----------------|
-| [Pathfinding Strategies](./Decision%20Making/Pathfinding%20Techniques/01_pathfinding_strategies.ipynb) | Explore various pathfinding algorithms such as Dijkstra's, A*, and more. |
+| [Pathfinding Strategies](./Decision%20Making/Deterministic%20Environments/01_pathfinding_strategies.ipynb) | Explore various pathfinding algorithms such as Dijkstra's, A*, and more. |
+
+### Stochastic Environments
+
+| **Name** | **Description** |
+|----------|-----------------|
+| [Markov Decision Process](./Decision%20Making/Stochastic%20Environments/01_markov_decision_process.ipynb) | Understand the Markov Decision Process and its applications. Q-Learning is also covered. |
+
+### Adversarial Search
+
+| **Name** | **Description** |
+|----------|-----------------|
+| [Othello Game](./Decision%20Making/Adversarial%20Search/01_othello_game.ipynb) | Implement the Othello game using Minimax and Alpha-Beta pruning. Monte Carlo Tree Search is also covered. |
 
 ## Machine Learning
 
